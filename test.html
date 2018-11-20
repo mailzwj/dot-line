@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Test</title>
+<style>
+html,
+body {
+    margin: 0;
+    height: 100%;
+    background-color: #000;
+}
+</style>
+</head>
+<body>
+<script src="./DotLine.min.js"></script>
+<script>
+(() => {
+    // console.log(DotLine);
+    const Component = DotLine.default;
+    const instance = new Component({
+        points: 100,
+        lineWidth: 1,
+        maxPointSize: 3
+    });
+})();
+</script>
+</body>
+</html>
