@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "mailzwj@126.com",
-  "repository": "",
+  "repository": "https://github.com/mailzwj/dot-line.git",
   "keywords": [
     "dot",
     "line",
