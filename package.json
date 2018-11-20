@@ -1,5 +1,5 @@
 {
-  "name": "dot-line",
+  "name": "@mailzwj/dot-line",
   "version": "1.0.0",
   "description": "A component for page decorate",
   "main": "DotLine.min.js",
