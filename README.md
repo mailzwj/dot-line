@@ -4,7 +4,7 @@
 
 ![DotLine](./dot-line.gif)
 
-[在线预览]()
+[在线预览](http://seejs.me/dot-line/demo/index.html)
 
 ### 使用方法
 
