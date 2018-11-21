@@ -43,6 +43,7 @@ const dec = new DotLine(option);
 * `maxSpace<Number>`: 最大连线距离，当距离大于该值的点不会连线，默认值`100`
 * `speed<String>`: 控制点的移动速度，可选值：`fast`、`slow`，默认正常速度
 * `parentId<String>`: 被装饰的容器ID，默认装饰`body`区域
+* `zIndex<Int>`: 控制装饰图案层级，避免某些情况下的遮挡，默认`100000`
 
 ### 其他
 
