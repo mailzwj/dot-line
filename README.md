@@ -2,9 +2,9 @@
 
 ### 预览
 
-![DotLine](http://newjs.vip/dot-line/dot-line.gif)
+![DotLine](http://mailzwj.github.io/dot-line/dot-line.gif)
 
-[在线预览](http://newjs.vip/dot-line/demo/index.html)
+[在线预览](http://mailzwj.github.io/dot-line/demo/index.html)
 
 ### 使用方法
 
